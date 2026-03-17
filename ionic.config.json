@@ -1,0 +1,7 @@
+{
+  "name": "visual-novel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
